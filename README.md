@@ -1,1 +1,3 @@
-# LRBench++: A framework for effective learning tuning and benchmarking
+# LRBench++: A framework for effective learning rate tuning and benchmarking
+
+
