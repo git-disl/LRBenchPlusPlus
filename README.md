@@ -11,7 +11,7 @@
 --->
 ## Introduction
 
-A framework for effective learning rate benchmarking and tuning tool, which will help practitioners efficiently evaluate, select, and compose good learning rate policies for training DNNs.
+LRBench++ is a framework for effective learning rate benchmarking and tuning, which will help practitioners efficiently evaluate, select, and compose good learning rate policies for training DNNs.
 
 ### The impact of learning rates
 
